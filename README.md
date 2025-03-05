@@ -23,13 +23,15 @@ Los diferentes componentes que se utilizan dentro del sistema de control de movi
 
 * Mecanismos de Transmisión: Sistemas que transfieren movimiento y fuerza desde un componente a otro en una máquina. Pueden modificar velocidad, torque y dirección, e incluyen engranajes, poleas, correas, cadenas y tornillos sin fin, entre otros. ![](https://github.com/MariaFernandaOrtiz-111449/Apuntes---Primera-Semana/blob/9e45b3b50aa59837af4a97075f572527abd2a27b/Mecanismos%20de%20transmisi%C3%B3n.png)
 
-* Sensores: Dispositivos que detectan cambios en el entorno y convierten esa información en señales eléctricas para su procesamiento. Se usan en automatización, robótica y electrónica para medir variables como temperatura, luz, presión, movimiento y posición. ![]()
-## 3. Subsecciones
-Las subsecciones pueden utilizarse para sub dividir ciertos temas que se tienen en clases, por ejemplo si se está trabajandolos conversores D/A, puede ser necesario subdividir este en circuito de resistencias ponderadas y circuito de escalera R2R. 
-### 3.1. Título de subsecciones
-Para la creación de estas subsecciones debe utilizar un tamaño de letra más pequeño, por lo tanto utilice la etiqueta '###' 
-### 3.2. Numeración de subsecciones
-Siga la numeración de la sección seguida de un punto y luego el número de la subsección.
+* Sensores: Dispositivos que detectan cambios en el entorno y convierten esa información en señales eléctricas para su procesamiento. Se usan en automatización, robótica y electrónica para medir variables como temperatura, luz, presión, movimiento y posición. ![](https://github.com/MariaFernandaOrtiz-111449/Apuntes---Primera-Semana/blob/555801acae4a65de19998b7531878791a79b358c/Sensores.png)
+  
+## 3. Características del control
+
+El control de movimiento cuenta con ciertas carácterísticas que le hacen prioritario como análisis del movimiento. Al aplicar movimiento a una carga, se genera una fuerza negativa que afecta la velocidad del motor, conocida como offset de velocidad. Para minimizar esta perturbación, es crucial controlar el torque de manera rápida y suave. Además, la dinámica de la velocidad debe ser precisa para lograr trayectorias curvas exactas. Un diseño eficiente del driver de potencia es fundamental para optimizar el consumo energético y prolongar la vida útil del motor y la electrónica.
+
+### Control cascada
+
+El control de cascada es una estrategia de control en la que se usan dos o más lazos anidados para mejorar la respuesta del sistema. Un controlador principal regula la variable principal y envía su salida a un controlador secundario, que ajusta una variable intermedia para mayor precisión y estabilidad, reduciendo perturbaciones y mejorando el desempeño. ![]()
 
 ## 4. Ejemplos
 Si en algún caso pretende dar un ejemplo explicativo ya sea a través de texto o através de ecuaciones matemáticos, utilizar la palabra 'Ejemplo' seguido de una numeración consecutiva dentro de la clase. Utilice el emoji 💡 antecediendo la palabra.
