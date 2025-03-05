@@ -21,7 +21,7 @@ Los diferentes componentes que se utilizan dentro del sistema de control de movi
 
 * Actuadores: Dispositivos que convierten una señal de control en movimiento o acción física. Pueden ser eléctricos, hidráulicos o neumáticos y se utilizan para realizar tareas como mover un motor, accionar una válvula o girar un mecanismo en sistemas automatizados. ![](https://github.com/MariaFernandaOrtiz-111449/Apuntes---Primera-Semana/blob/3829a7559e04368c8e27dfcec81313c58c7d80d1/Actuadores.png)
 
-* Mecanismos de Transmisión: Sistemas que transfieren movimiento y fuerza desde un componente a otro en una máquina. Pueden modificar velocidad, torque y dirección, e incluyen engranajes, poleas, correas, cadenas y tornillos sin fin, entre otros. ![]()
+* Mecanismos de Transmisión: Sistemas que transfieren movimiento y fuerza desde un componente a otro en una máquina. Pueden modificar velocidad, torque y dirección, e incluyen engranajes, poleas, correas, cadenas y tornillos sin fin, entre otros. ![](https://github.com/MariaFernandaOrtiz-111449/Apuntes---Primera-Semana/blob/9e45b3b50aa59837af4a97075f572527abd2a27b/Mecanismos%20de%20transmisi%C3%B3n.png)
 
 * Sensores: Dispositivos que detectan cambios en el entorno y convierten esa información en señales eléctricas para su procesamiento. Se usan en automatización, robótica y electrónica para medir variables como temperatura, luz, presión, movimiento y posición. ![]()
 ## 3. Subsecciones
