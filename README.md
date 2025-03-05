@@ -1,15 +1,24 @@
 # Apuntes---Primera-Semana
-Apuntes control de movimiento primer corte, Segunda Semana
+Apuntes control de movimiento primer corte, Primera Semana
 # CONTROL DE MOVIMIENTO
 Ademas de reconocer que es control de movimiento, conoceremos muchas de sus aplicaciones en la industria.
->🔑 *Definición:* descripción precisa y
+>🔑 *Definición:* Se basa en el control del movimiento mecánico de un sistema con carga
 
 ## 1. Ejes de Movimiento
 Los también denominados axis, se asocian a cada movimiento que generen los actuadores involucrados en un sistema especifico. Generalmente los sistemas de control de movimiento tienen más de un eje de movimiento, y por cada uno de los axis que compongan al sistema podemos llegar a controlar variables como: posición, velocidad, torque y asceleración; la finalidad de controlar al menos una de estas variables en cada eje es para garantizar la sincronica del proceso que se este llevando acabo, y con ellos tener mejores resultados en los productos o procesos. 
 
 ## 2. Historia del Control de Movimiento
-A lo largo de la historia podemos encontrar multiples maquinas en la industria, que desempeñan diversas tareas
 
+A lo largo de la historia podemos encontrar multiples maquinas en la industria, que desempeñan diversas tareas como lo eran máquinas dobladoras o máquinas etiqueteadoras. En los casos expuestos anteriormente, las máquinas solo contaban con un motor con un eje largo que utilizaba engranajes y mecanismos para modificar trayectorias, velocidaddes y acelaraciones en diferentes ejes, manteniéndolos sincronizados con el motor principal. Sin embargo, han caído en desuso debido a su falta de flexibilidad y al alto costo y complejidad de su mantenimiento.
+
+### 2.1. Componentes
+
+Los diferentes componentes que se utilizan dentro del sistema de control de movimiento dependen de la funcionalidad que se le vaya a dar al mecanismo; dentro de estos encontramos drivers de potencia, actudaores, interfaces humanas entre otras. A continuacion entramos en detalle de cada uno de los elementos que componen al sistema.
+
+* Interfaz Humano - Máquina: Es el medio a través del cual una persona interactúa con una máquina o sistema, permitiendo el control y monitoreo de sus funciones. Puede incluir pantallas táctiles, botones, teclados, luces y software especializado.
+
+![]()
+* 
 ## 3. Subsecciones
 Las subsecciones pueden utilizarse para sub dividir ciertos temas que se tienen en clases, por ejemplo si se está trabajandolos conversores D/A, puede ser necesario subdividir este en circuito de resistencias ponderadas y circuito de escalera R2R. 
 ### 3.1. Título de subsecciones
