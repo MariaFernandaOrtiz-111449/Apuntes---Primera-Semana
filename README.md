@@ -44,66 +44,30 @@ A continuación observaremos diferentes usos que se les da al control cascada de
   ![](https://github.com/MariaFernandaOrtiz-111449/Apuntes---Primera-Semana/blob/c249450fa8e7f916ab7f95022005b6a2cf6859f4/Cadenas%20de%20suministros%20automatizadas.png)
 
 ### Productos alimenticios
-*El control en cascada se utiliza para garantizar calidad y eficiencia en procesos como pasteurización, horneado y envasado. Un controlador principal regula variables clave como temperatura o presión, mientras que controladores secundarios ajustan parámetros intermedios, como el flujo de vapor o la velocidad de cintas transportadoras. Esto permite un control preciso, reduciendo desperdicios y asegurando uniformidad en el producto final. ![]()
-## 5. Ecuaciones
-Para la edición de ecuaciones debe utilizar la etiqueta '$$' al comienzo y final de la ecuación para que la ecuación quede centrada ocupando una línea. Si se quiere que la ecuación quede integrada en el texto debe utilizar la etiqueta '$' al comienzo y final de la ecuación. Las ecuaciones pueden ser editadas utilizando el código LATEX, en el siguiente enlace encuentran un editor de ecuaciones que les genera el código. http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp . Sin embargo hay muchas otras herramientas que pueden utilizar para esto.
+*El control en cascada se utiliza para garantizar calidad y eficiencia en procesos como pasteurización, horneado y envasado. Un controlador principal regula variables clave como temperatura o presión, mientras que controladores secundarios ajustan parámetros intermedios, como el flujo de vapor o la velocidad de cintas transportadoras. Esto permite un control preciso, reduciendo desperdicios y asegurando uniformidad en el producto final. ![](https://github.com/MariaFernandaOrtiz-111449/Apuntes---Primera-Semana/blob/6c901d9f31ec990dc44e4ad16ff26a2e00df5915/Productos%20Alimenticios.png)
 
-💡**Ejemplo 1:** si se va a representar la ecuación de la ley de Ohm se puede mostrar así $R=\frac{V}{I}$ o también,
+## 5. Conclusiones
 
-$$R=\frac{V}{I}$$
+### Conclusiones  
 
-## 6. Figuras
-Todas las figuras que incluya deben ser generadas por ustedes, **no utilizar las figuras de las presentaciones**. Para incluir figuras puede seguir los siguientes pasos:
-* Primero escribimos ![]().
-* Después escribimos, dentro de los corchetes, el texto alternativo. Este es opcional y solo entra en acción cuando no se puede cargar la imagen correctamente.
-* Después escribimos, dentro de los paréntesis, la ubicación del archivo (ya sea una url o una ubicación dentro de algun folder local). Se recomienda poner las imágenes en una carpeta que se llame imágenes dentro del repositorio github para que no tengan problemas al cargar las imágenes.
+El control de movimiento es un concepto clave en la automatización industrial, ya que permite gestionar con precisión variables como posición, velocidad, torque y aceleración en distintos sistemas mecánicos. A lo largo de la historia, las máquinas han evolucionado desde modelos simples con un solo eje hasta sistemas complejos con múltiples ejes y componentes avanzados que garantizan mayor eficiencia y flexibilidad en los procesos.  
 
-💡**Ejemplo 2:**
+El uso de diferentes componentes, como actuadores, sensores y mecanismos de transmisión, permite mejorar la sincronización y el rendimiento de los sistemas automatizados. Además, estrategias como el control en cascada han demostrado ser esenciales para optimizar la estabilidad y respuesta del sistema, reduciendo perturbaciones y mejorando la precisión en aplicaciones industriales.  
 
-![Figura de prueba](images/plantilla/Captura2.PNG)
+En sectores como el transporte y la producción de alimentos, el control de movimiento y el control en cascada desempeñan un papel crucial en la optimización de recursos, la reducción de desperdicios y la mejora en la calidad de los productos finales. Finalmente, el diseño eficiente de drivers de potencia y la correcta implementación de estrategias de control son fundamentales para garantizar el ahorro energético y la durabilidad de los equipos en la industria.
 
-Figura 1. Figura de prueba
+## 6. Referencias
 
-Incluya la respectiva etiqueta a modo de descripción de la figura y mantenga numeración consecutiva para todas las figuras de la clase.
-
-## 7. Tablas
-En caso de necesitar la inclusión de tablas para organizar información se recomienda el uso de la herramienta del siguiente enlace https://www.tablesgenerator.com/markdown_tables , la cual permite organizar la información dentro de la tabla y genera el código markdown automáticamente:
-
-💡**Ejemplo 3:** 
-
-| **Resultado** | **x = número de intentos hasta primer éxito** |
-|---------------|-----------------------------------------------|
-|       S       |                       1                       |
-|       FS      |                       2                       |
-|      FFS      |                       3                       |
-|      ...      |                      ...                      |
-|    FFFFFFS    |                       7                       |
-|      ...      |                      ...                      |
-
-Tabla 1. Tabla de ejemplo
-
-Cada tabla debe llevar la etiqueta que describa su contenido y numeración consecutiva para todas las tablas
-
-## 8. Código
-Teniendo en cuenta que el curso requiere del desarrollo de código matlab, c, c++ u otro. Si requiere incluir pequeños segmentos de código en los apuntes hágalos de la siguiente manera:
-
-💡**Ejemplo 4:**
-```
-var sumar2 = function(numero) {
-  return numero + 2;
-}
-```
-
-## 9. Ejercicios
-Deben agregar 2 ejercicios con su respectiva solución, referentes a los temas tratados en cada una de las clases. Para agregar estos, utilice la etiqueta #, es decir como un nuevo título dentro de la clase con la palabra 'Ejercicios'. Cada uno de los ejercicios debe estar numerado y con su respectiva solución inmediatamente despues del enunciado. Antes del subtitulo de cada ejercicio incluya el emoji 📚
-
-## Rúbrica
-| 0-1                                                                                   | 1-2                                                                                  | 2-3                                                                                                                                                                               | 3-4                                                                                                                                                                       | 4-5                                                                                                                                                                               |
-|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Presenta menos del 10% de los temas o no presenta por  el medio y formato  solicitado | Presenta menos del 40% de los temas solicitados, y  cumple parcialmente la plantilla | Presenta menos del 60% de los temas solicitados (con descripciones, gráficos tablas, etc), y cumple  parcialmente la plantilla. No presenta la totalidad  de ejercicios resueltos | Presenta menos del 80% de los temas solicitados (con descripciones, gráficos, tablas, etc) y cumple con  la plantilla. No presenta  la totalidad de ejercicios  resueltos | Presenta el 100% de los temas vistos en clase (con descripciones, gráficos, tablas, etc), siguiendo totalmente la plantilla. presenta la  totalidad de los ejercicios solicitados |
-
-## 10. Conclusiones
-Agregue unas breves conclusiones sobre los temas trabajados en cada clase, puede ser a modo de resumen de lo trabajado o a indicando lo aprendido en cada clase
-
-## 11. Referencias
-Agregue un subtítulo al final donde pueda poner todas las referencias consultadas incluyendo el origen o fuente de los ejercicios planteados. Tambien dentro del texto referencie los textos o artículos consultados y las figuras y tablas dentro de la explicación de las mismas.
+* Diseño de sistemas de control analógicos y digitales . Chen
+* Controladores PID Teoría, diseño y sintonización. Astrom, K
+* Papadopoulos, Evangelos & Chasparis, Georgios. (2002). Analysis and
+model-based control of servomechanisms with friction.
+* P. Prakash, C y otros, Wireless motion controlled dual six axis robotic arms
+with rover, Materials Today: Proceedings, 2019.
+* A. Kosari, y otros, An optimal fuzzy PID control approach for docking
+maneuver of two spacecraft: Orientational motion,
+* Engineering Science and Technology, an International Journal, Volume 20,
+Issue 1, 2017, Pages 293-309.
+* Tsai-Jiun Ren,, Motion control for a two-wheeled vehicle using a selftuning PID controller, Control Engineering Practice, Volume 16, Issue 3,
+2008, Pages 365-375.
+* Ingeniería de control moderna. Ogata, K
