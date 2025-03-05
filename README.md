@@ -1,13 +1,14 @@
 # Apuntes---Segunda-Semana
 Apuntes control de movimiento primer corte, Segunda Semana
 # CONTROL DE MOVIMIENTO
-Ademas de reconocer que es 
-## 1. Subtítulos
-Agregue todos los subtítulos que considere necesarios para estructurar el contenido de la clase. Es importante que considere jerarquías de los temas para definir el orden de estos subtítulos. Cada subtítulo debe ir numerado como una sección, de la manera en que lo presenta esta plantilla
+Ademas de reconocer que es control de movimiento, conoceremos muchas de sus aplicaciones en la industria.
+>🔑 *Definición:* descripción precisa y
 
-## 2. Definiciones
-Utilice el símbolo '>' para crear bloques de texto. En la presente plantilla estas cajas están reservadas para resaltar las definiciones, las cuales deben ser breves, y la palabra o frase que se está definiendo debe estar en letra itálica. El inicio del bloque de texto debe realizarse con el emoji 🔑 .
->🔑 *Definición:* descripción precisa y clara del significado de una palabra, término, concepto o fenómeno. Es una explicación que establece los límites y el alcance de aquello que se está definiendo, aclarando su naturaleza, características esenciales y, en algunos casos, su relación con otros conceptos.
+## 1. Ejes de Movimiento
+Los también denominados axis, se asocian a cada movimiento que generen los actuadores involucrados en un sistema especifico. Generalmente los sistemas de control de movimiento tienen más de un eje de movimiento, y por cada uno de los axis que compongan al sistema podemos llegar a controlar variables como: posición, velocidad, torque y asceleración; la finalidad de controlar al menos una de estas variables en cada eje es para garantizar la sincronica del proceso que se este llevando acabo, y con ellos tener mejores resultados en los productos o procesos. 
+
+## 2. Historia del Control de Movimiento
+A lo largo de la historia podemos encontrar multiples maquinas en la industria, que desempeñan diversas tareas
 
 ## 3. Subsecciones
 Las subsecciones pueden utilizarse para sub dividir ciertos temas que se tienen en clases, por ejemplo si se está trabajandolos conversores D/A, puede ser necesario subdividir este en circuito de resistencias ponderadas y circuito de escalera R2R. 
