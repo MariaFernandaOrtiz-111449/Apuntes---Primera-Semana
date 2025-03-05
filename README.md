@@ -19,7 +19,7 @@ Los diferentes componentes que se utilizan dentro del sistema de control de movi
 
 * Controlador de movimiento: Componente que gestiona y coordina el movimiento de motores en sistemas automatizados. Se encarga de generar señales precisas para controlar velocidad, posición y aceleración, permitiendo un funcionamiento eficiente y sincronizado en aplicaciones como robótica, CNC y automatización industrial. ![](https://github.com/MariaFernandaOrtiz-111449/Apuntes---Primera-Semana/blob/3029c00e61f50720e01463f7931400106c433b29/Controlador%20de%20movimiento.png)
 
-* Actuadores: Dispositivos que convierten una señal de control en movimiento o acción física. Pueden ser eléctricos, hidráulicos o neumáticos y se utilizan para realizar tareas como mover un motor, accionar una válvula o girar un mecanismo en sistemas automatizados. ![]()
+* Actuadores: Dispositivos que convierten una señal de control en movimiento o acción física. Pueden ser eléctricos, hidráulicos o neumáticos y se utilizan para realizar tareas como mover un motor, accionar una válvula o girar un mecanismo en sistemas automatizados. ![](https://github.com/MariaFernandaOrtiz-111449/Apuntes---Primera-Semana/blob/3829a7559e04368c8e27dfcec81313c58c7d80d1/Actuadores.png)
 
 * Mecanismos de Transmisión: Sistemas que transfieren movimiento y fuerza desde un componente a otro en una máquina. Pueden modificar velocidad, torque y dirección, e incluyen engranajes, poleas, correas, cadenas y tornillos sin fin, entre otros. ![]()
 
