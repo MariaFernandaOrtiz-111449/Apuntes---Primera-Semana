@@ -15,10 +15,9 @@ A lo largo de la historia podemos encontrar multiples maquinas en la industria, 
 
 Los diferentes componentes que se utilizan dentro del sistema de control de movimiento dependen de la funcionalidad que se le vaya a dar al mecanismo; dentro de estos encontramos drivers de potencia, actudaores, interfaces humanas entre otras. A continuacion entramos en detalle de cada uno de los elementos que componen al sistema.
 
-* Interfaz Humano - Máquina: Es el medio a través del cual una persona interactúa con una máquina o sistema, permitiendo el control y monitoreo de sus funciones. Puede incluir pantallas táctiles, botones, teclados, luces y software especializado.
+* Interfaz Humano - Máquina: Es el medio a través del cual una persona interactúa con una máquina o sistema, permitiendo el control y monitoreo de sus funciones. Puede incluir pantallas táctiles, botones, teclados, luces y software especializado. ![](https://github.com/MariaFernandaOrtiz-111449/Apuntes---Primera-Semana/blob/e9fa32c35e96e5ddc59e32fea7918aa31ce8db29/HMI.png)
 
-![]()
-* 
+* Controlador de movimiento: Es un componente que gestiona y coordina el movimiento de motores en sistemas automatizados. Se encarga de generar señales precisas para controlar velocidad, posición y aceleración, permitiendo un funcionamiento eficiente y sincronizado en aplicaciones como robótica, CNC y automatización industrial.
 ## 3. Subsecciones
 Las subsecciones pueden utilizarse para sub dividir ciertos temas que se tienen en clases, por ejemplo si se está trabajandolos conversores D/A, puede ser necesario subdividir este en circuito de resistencias ponderadas y circuito de escalera R2R. 
 ### 3.1. Título de subsecciones
