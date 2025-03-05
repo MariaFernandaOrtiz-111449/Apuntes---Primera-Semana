@@ -31,11 +31,19 @@ El control de movimiento cuenta con ciertas carácterísticas que le hacen prior
 
 ### Control cascada
 
-El control de cascada es una estrategia de control en la que se usan dos o más lazos anidados para mejorar la respuesta del sistema. Un controlador principal regula la variable principal y envía su salida a un controlador secundario, que ajusta una variable intermedia para mayor precisión y estabilidad, reduciendo perturbaciones y mejorando el desempeño. ![]()
+El control de cascada es una estrategia de control en la que se usan dos o más lazos anidados para mejorar la respuesta del sistema. Un controlador principal regula la variable principal y envía su salida a un controlador secundario, que ajusta una variable intermedia para mayor precisión y estabilidad, reduciendo perturbaciones y mejorando el desempeño. ![](https://github.com/MariaFernandaOrtiz-111449/Apuntes---Primera-Semana/blob/bf72f46053468b2583775e90e2e437547f8ffdb6/Control%20cascada.png)
 
 ## 4. Ejemplos
-Si en algún caso pretende dar un ejemplo explicativo ya sea a través de texto o através de ecuaciones matemáticos, utilizar la palabra 'Ejemplo' seguido de una numeración consecutiva dentro de la clase. Utilice el emoji 💡 antecediendo la palabra.
 
+El uso del control cascada está muy ligado a la industria debido a que mejora la estabilidad y precisión del sistema al reducir el impacto de perturbaciones. Permite una respuesta más rápida y eficiente, ya que el controlador secundario corrige variaciones antes de que afecten la variable principal. Es común en procesos con inercias grandes, como control de temperatura, presión y velocidad en maquinaria industrial.
+
+A continuación observaremos diferentes usos que se les da al control cascada dentro de la industria:
+
+### Transporte
+* Cadenas de suministros automatizadas: el control en cascada se usa para optimizar el flujo de materiales y productos. Un controlador principal gestiona la producción y la logística general, mientras que controladores secundarios ajustan variables como velocidad de transportadores, tiempos de almacenamiento y distribución. Esto mejora la eficiencia, reduce retrasos y minimiza interrupciones en el proceso. ![]()
+
+### Productos alimenticios
+*el control en cascada se utiliza para garantizar calidad y eficiencia en procesos como pasteurización, horneado y envasado. Un controlador principal regula variables clave como temperatura o presión, mientras que controladores secundarios ajustan parámetros intermedios, como el flujo de vapor o la velocidad de cintas transportadoras. Esto permite un control preciso, reduciendo desperdicios y asegurando uniformidad en el producto final. ![]()
 ## 5. Ecuaciones
 Para la edición de ecuaciones debe utilizar la etiqueta '$$' al comienzo y final de la ecuación para que la ecuación quede centrada ocupando una línea. Si se quiere que la ecuación quede integrada en el texto debe utilizar la etiqueta '$' al comienzo y final de la ecuación. Las ecuaciones pueden ser editadas utilizando el código LATEX, en el siguiente enlace encuentran un editor de ecuaciones que les genera el código. http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp . Sin embargo hay muchas otras herramientas que pueden utilizar para esto.
 
