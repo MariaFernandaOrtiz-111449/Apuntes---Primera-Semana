@@ -2,7 +2,6 @@
 Apuntes control de movimiento primer corte, Primera Semana
 # CONTROL DE MOVIMIENTO
 Ademas de reconocer que es control de movimiento, conoceremos muchas de sus aplicaciones en la industria.
->🔑 *Definición:* Se basa en el control del movimiento mecánico de un sistema con carga
 
 ## 1. Ejes de Movimiento
 Los también denominados axis, se asocian a cada movimiento que generen los actuadores involucrados en un sistema especifico. Generalmente los sistemas de control de movimiento tienen más de un eje de movimiento, y por cada uno de los axis que compongan al sistema podemos llegar a controlar variables como: posición, velocidad, torque y asceleración; la finalidad de controlar al menos una de estas variables en cada eje es para garantizar la sincronica del proceso que se este llevando acabo, y con ellos tener mejores resultados en los productos o procesos. 
