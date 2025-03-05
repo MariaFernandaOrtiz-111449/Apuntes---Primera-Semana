@@ -17,7 +17,13 @@ Los diferentes componentes que se utilizan dentro del sistema de control de movi
 
 * Interfaz Humano - Máquina: Es el medio a través del cual una persona interactúa con una máquina o sistema, permitiendo el control y monitoreo de sus funciones. Puede incluir pantallas táctiles, botones, teclados, luces y software especializado. ![](https://github.com/MariaFernandaOrtiz-111449/Apuntes---Primera-Semana/blob/e9fa32c35e96e5ddc59e32fea7918aa31ce8db29/HMI.png)
 
-* Controlador de movimiento: Es un componente que gestiona y coordina el movimiento de motores en sistemas automatizados. Se encarga de generar señales precisas para controlar velocidad, posición y aceleración, permitiendo un funcionamiento eficiente y sincronizado en aplicaciones como robótica, CNC y automatización industrial.
+* Controlador de movimiento: Componente que gestiona y coordina el movimiento de motores en sistemas automatizados. Se encarga de generar señales precisas para controlar velocidad, posición y aceleración, permitiendo un funcionamiento eficiente y sincronizado en aplicaciones como robótica, CNC y automatización industrial. ![](https://github.com/MariaFernandaOrtiz-111449/Apuntes---Primera-Semana/blob/3029c00e61f50720e01463f7931400106c433b29/Controlador%20de%20movimiento.png)
+
+* Actuadores: Dispositivos que convierten una señal de control en movimiento o acción física. Pueden ser eléctricos, hidráulicos o neumáticos y se utilizan para realizar tareas como mover un motor, accionar una válvula o girar un mecanismo en sistemas automatizados. ![]()
+
+* Mecanismos de Transmisión: Sistemas que transfieren movimiento y fuerza desde un componente a otro en una máquina. Pueden modificar velocidad, torque y dirección, e incluyen engranajes, poleas, correas, cadenas y tornillos sin fin, entre otros. ![]()
+
+* Sensores: Dispositivos que detectan cambios en el entorno y convierten esa información en señales eléctricas para su procesamiento. Se usan en automatización, robótica y electrónica para medir variables como temperatura, luz, presión, movimiento y posición. ![]()
 ## 3. Subsecciones
 Las subsecciones pueden utilizarse para sub dividir ciertos temas que se tienen en clases, por ejemplo si se está trabajandolos conversores D/A, puede ser necesario subdividir este en circuito de resistencias ponderadas y circuito de escalera R2R. 
 ### 3.1. Título de subsecciones
