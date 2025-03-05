@@ -1,4 +1,4 @@
-# Apuntes---Segunda-Semana
+# Apuntes---Primera-Semana
 Apuntes control de movimiento primer corte, Segunda Semana
 # CONTROL DE MOVIMIENTO
 Ademas de reconocer que es control de movimiento, conoceremos muchas de sus aplicaciones en la industria.
